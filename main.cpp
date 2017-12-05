@@ -1,6 +1,7 @@
 //Program simulates a two-dimensional world in which each "cell" may be 
 //occupied by an organism. The world passes through generations, bringing death 
-//and new life to the world instantaneously in accordance with a set of rules.
+//and new life to the world instantaneously in accordance with Conway's
+//Game of Life rules.
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
